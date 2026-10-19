@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="auto_reboot_title">Auto reboot</string>
+    <string name="auto_reboot_footer">Automatically reboot the device if it hasn\'t been unlocked within the selected duration of time.</string>
+
+</resources>

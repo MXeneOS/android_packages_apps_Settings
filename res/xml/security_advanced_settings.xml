@@ -89,6 +89,12 @@
     </Preference>
 
     <Preference
+        android:order="255"
+        android:key="auto_reboot"
+        android:title="@string/auto_reboot_title"
+        settings:controller="com.android.settings.security.AutoRebootPrefController" />
+
+    <Preference
         android:order="260"
         android:key="encryption_and_credential"
         android:title="@string/encryption_and_credential_settings_title"
