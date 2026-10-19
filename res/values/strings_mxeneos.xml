@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The MXeneOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About phone: label of the row that names the upstream project -->
+    <string name="mxeneos_based_on_title">Based on</string>
+    <!-- About phone: upstream name and its version, for example "LineageOS 23.2" -->
+    <string name="mxeneos_based_on_summary" translatable="false">LineageOS <xliff:g id="version" example="23.2">%1$s</xliff:g></string>
+</resources>
